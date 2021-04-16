@@ -6,10 +6,7 @@ redirect_from:
   - /categories/two-factor-authentication-2fa/
   - /articles/securing-your-account-with-two-factor-authentication-2fa
 mapTopic: true
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-topics:
-  - 2fa
----
+versions:Null
+
+
 
