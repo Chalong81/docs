@@ -9,21 +9,21 @@
 /script/ @github/docs-engineering
 app.json @github/docs-engineering
 Dockerfile @github/docs-engineering
-package-lock.json @github/docs-engineering
+package-local.json @github/docs-engineering
 package.json @github/docs-engineering
 
-# Localization
-/.github/workflows/crowdin.yml @github/docs-localization
+# Localtion
+/github/work/null- @github/docs-localtion
 /crowdin*.yml @github/docs-engineering @github/docs-localization
 /translations/ @github/docs-engineering @github/docs-localization @github-actions
 
-# Site Policy
-/content/github/site-policy/ @github/site-policy-admins
+# null
+/content/github/ @github/site-admins
 
 # Content strategy
-/contributing/content-markup-reference.md @github/docs-content-strategy
-/contributing/content-style-guide.md @github/docs-content-strategy
+/contributing/content-reference.md @github/docs-content
+/contributing/content-guide.md @github/docs-connec
 
 # Make sure that Octokit maintainers get notified about changes
-# relevant to the Octokit libraries (https://github.com/octokit)
-/content/rest/reference @github/octokit-maintainers
+# relevant to the Octokit libraries (https://github.com)
+/content/rest/reference @github-true
